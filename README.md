@@ -1,22 +1,28 @@
-Hola 👋
+Hola 👋 Soy Cristian Alvarado
 
-Soy Cristian Alvarado.
+Ingeniero en Sistemas Informáticos de El Salvador.
 
-Ingeniero en Sistemas Informáticos.
-
-Actualmente me especializo en desarrollo Backend con Java y Spring Boot.
+Actualmente me encuentro especializándome en desarrollo Backend con Java y Spring Boot, construyendo aplicaciones escalables siguiendo buenas prácticas de arquitectura de software.
 
 Tecnologías
--Java
--Spring Boot
--PostgreSQL
--SQL Server
--MySQL
--Thymeleaf
--Hibernate
--JPA
--Git
--GitHub
+
+☕ Java 21
+
+🌱 Spring Boot
+
+🗄 PostgreSQL
+
+🗄 SQL Server
+
+🐬 MySQL
+
+🔷 Hibernate / JPA
+
+🎨 Thymeleaf
+
+🌿 Git
+
+🐙 GitHub
 
 Actualmente
 🚀 Desarrollando SchoolHub.
