@@ -26,3 +26,15 @@ Tecnologías
 
 Actualmente
 🚀 Desarrollando SchoolHub.
+
+Sistema Integral de Gestión Académica desarrollado con:
+
+Spring Boot
+
+PostgreSQL
+
+Thymeleaf
+
+Bootstrap
+
+Spring Data JPA
