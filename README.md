@@ -29,12 +29,4 @@ Actualmente
 
 Sistema Integral de Gestión Académica desarrollado con:
 
-Spring Boot
-
-PostgreSQL
-
-Thymeleaf
-
-Bootstrap
-
-Spring Data JPA
+Spring Boot, PostgreSQL, Thymeleaf, Bootstrap, Spring Data JPA.
